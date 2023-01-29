@@ -1,7 +1,7 @@
 
 Hi there ! Im **Elina**, a freelance Graphic & Web Designer learning Full-Stack Web Development & Programming.
 
-**Projects in development:**
+:computer:**Projects in development:**
 
 *nothing for now*
 
