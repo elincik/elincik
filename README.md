@@ -1,5 +1,5 @@
 
-Hi there ! Im **Elina**, a freelance Graphic & Web Designer learning Full-Stack Web Development & Programming.
+Hi there ! Im **Elina**, a freelance Graphic & Web Designer learning Full-Stack Web Development.
 
 :computer:**Projects in development:**
 
