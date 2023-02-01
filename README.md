@@ -5,12 +5,12 @@ Hi there ! Im **Elina**, a freelance Graphic & Web Designer learning Full-Stack 
 
                  
                     
- * The Odin Project  [[projects]](https://github.com/elincik/my-odin-projects)
+ * `The Odin Project`  [`Repository`](https://github.com/elincik/my-odin-projects)
                  
 
 :seedling:**Currently studying:**
-* <a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a>
-* <a href="https://cs50.harvard.edu/x/2023/" target="_blank">CS50x</a>
+* <a href="https://www.theodinproject.com/" target="_blank">`The Odin Project`</a>
+* <a href="https://cs50.harvard.edu/x/2023/" target="_blank">`CS50x`</a>
 
 
 
