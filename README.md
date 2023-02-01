@@ -3,7 +3,10 @@ Hi there ! Im **Elina**, a freelance Graphic & Web Designer learning Full-Stack 
 
 :computer:**Projects in development:**
 
-*nothing for now*
+                 
+                    
+ * The Odin Project  [[projects]](https://github.com/elincik/my-odin-projects)
+                 
 
 :seedling:**Currently focusing on:**
 * <a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a>
