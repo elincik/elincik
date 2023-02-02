@@ -9,8 +9,8 @@ Hi there ! Im **Elina**, a freelance Graphic & Web Designer learning Full-Stack 
                  
 
 :seedling:**Currently studying:**
-* `The Odin Project` <a href="https://www.theodinproject.com/" target="_blank">`Link`</a>
-* `CS50x` <a href="https://cs50.harvard.edu/x/2023/" target="_blank">`Link`</a>
+* <a href="https://www.theodinproject.com/" target="_blank">`The Odin Project`</a> `Progress: Foundations` 
+* <a href="https://cs50.harvard.edu/x/2023/" target="_blank">`CS50x`</a> `Progress: week 6 (Python)` 
 
 
 
